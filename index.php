@@ -2,6 +2,6 @@
 
 	echo "I don't know  what '-' write here";
 	
-	echo "Trying the inverse now
+	echo "Trying the inverse now";
 
 ?> 

@@ -1,6 +1,6 @@
 <?php
 
-Echo "I don't know  what write here";
+	echo "I don't know  what write here";
 
 
 
